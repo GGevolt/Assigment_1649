@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56cb9955-a565-4485-aee6-c26d7d864d05" name="Changes" comment="" />
+    <list default="true" id="56cb9955-a565-4485-aee6-c26d7d864d05" name="Changes" comment="Optimize">
+      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/ArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/SinglyLinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/AbstractQueue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/AbstractStack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/interfaces/List.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/benchmark/BenchmarkTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/implementations/ArrayListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/implementations/MessageQueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/implementations/MessageStackTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/implementations/SinglyLinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/ArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/MessageProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/MessageProcessor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/MessageStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/MessageStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/implementations/SinglyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/AbstractQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/AbstractStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/LinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/interfaces/List.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +73,24 @@
       <option name="presentableId" value="Default" />
       <updated>1692248692971</updated>
       <workItem from="1692248693986" duration="1506000" />
-      <workItem from="1692276923580" duration="7227000" />
+      <workItem from="1692276923580" duration="7577000" />
     </task>
+    <task id="LOCAL-00001" summary="Optimize">
+      <option name="closed" value="true" />
+      <created>1692285609102</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692285609102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Optimize" />
+    <option name="LAST_COMMIT_MESSAGE" value="Optimize" />
   </component>
 </project>
