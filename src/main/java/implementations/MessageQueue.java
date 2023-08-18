@@ -7,6 +7,9 @@ public class MessageQueue<E>{
     public MessageQueue() {
         this.front = this.rear = null;
     }
+    public boolean isEmpty() {
+        return front == null;
+    }
 
     public void enqueue(Message msg) {
         Node temp = new Node(msg);

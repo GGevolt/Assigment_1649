@@ -1,6 +1,8 @@
 package implementations;
 
 
+import java.util.Scanner;
+
 public class MessageStack<E> {
 
     Node head;
@@ -31,11 +33,13 @@ public class MessageStack<E> {
             printFromNode(head);
     }
 
-    public void listFiltered(String filter) {
+    public void listFiltered(Scanner scanner) {
         if(isEmpty()){
             System.out.println("Stack is empty!");
             return;
         }
+        System.out.println("Enter a keyword to filter by:");
+        String filter = scanner.nextLine();
         printFromNode(head, filter);
     }
 
