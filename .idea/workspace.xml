@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="56cb9955-a565-4485-aee6-c26d7d864d05" name="Changes" comment="Optimize">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/MessageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/MessageProcessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/MessageQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/MessageQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/implementations/MessageStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/implementations/MessageStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/implementations/MessageProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/MessageProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/implementations/MessageQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/implementations/MessageQueue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +58,7 @@
       <workItem from="1692248693986" duration="1506000" />
       <workItem from="1692276923580" duration="10970000" />
       <workItem from="1692320307184" duration="5327000" />
-      <workItem from="1692347609790" duration="3683000" />
+      <workItem from="1692347609790" duration="8776000" />
     </task>
     <task id="LOCAL-00001" summary="Optimize">
       <option name="closed" value="true" />
